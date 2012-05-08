@@ -1,0 +1,6 @@
+Crazy project.
+Multithread downloader images from 'secret board'
+client/ - downloader
+server/ - server for testing
+
+created by example: http://fprog.ru/2009/issue2/alexander-samoylovich-erlang-crawler/
